@@ -6,3 +6,4 @@ The code compiles using AVR Studio 4.
 
 Schematic and breadboard assembly photographs are included in the repository archive.
 
+Project based on an article from https://www.edn.com/wp-content/uploads/EDN_Design_Ideas_2003_.pdf  On page 76
