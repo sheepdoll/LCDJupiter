@@ -4,5 +4,5 @@ Unlike processors with a built in bare glass controller this project bit bangs t
 
 The code compiles using AVR Studio 4.
 
-
+Schematic and breadboard assembly photographs are included in the repository archive.
 
